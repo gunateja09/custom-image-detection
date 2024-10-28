@@ -1,0 +1,4 @@
+0 sun glasses
+1 perfume bottle
+2 smartphone
+3 watch
